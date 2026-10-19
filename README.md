@@ -24,19 +24,25 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name:   1. Pattarakorn Mongprom
+	2. Natchaphat Julawong
+	3. Krittikorn Luangkasiphong
+
+Email: nekokenji2548@gmail.com 
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![GIF](Animation/GITGIF.gif)
 
 💬 4. Quote
-
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the 
+Confidence to move forward, 
+because we can always trace
+our changes and
+Return to what worked
 
 🎬 5. Video Lecture
